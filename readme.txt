@@ -1,2 +1,2 @@
-Gdfait is a vecontrol system.
+Gdfait econtrol system.
 Git is free or ono software.
