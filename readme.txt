@@ -1,4 +1,0 @@
-Gdfait econtrol system.
-Git is free or ono software.
-wodenewlineddafda
-ignore files
